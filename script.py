@@ -9,6 +9,65 @@ def find_all_tables(soup: BeautifulSoup) -> List[BeautifulSoup]:
     """Find all tables in the HTML document."""
     return soup.find_all("table")
 
+def parse_svg_icon(element) -> str:
+    """
+    Parse element to determine if it contains a plus or minus SVG icon.
+    Returns: '+', '-', or empty string
+    """
+    if not element:
+        return ""
+    
+    # Convert to string and lowercase for easier matching
+    html_str = str(element).lower()
+    
+    # Check for SVG elements
+    if 'svg' in html_str:
+        # Look for common plus/minus indicators in SVG content
+        if any(term in html_str for term in ['plus', 'add', 'fa-plus', 'positive']):
+            return '+'
+        elif any(term in html_str for term in ['minus', 'remove', 'fa-minus', 'negative']):
+            return '-'
+    
+    return ""
+
+def extract_cell_content(cell) -> str:
+    """Extract content from a cell, handling special cases like SVG icons and wrapping divs for each player."""
+    from bs4 import Tag
+    player_divs = cell.select('.bg-red-300, .bg-green-300')
+    if player_divs:
+        players = []
+        for div in player_divs:
+            # Go up to the flex row parent
+            flex_row = div.find_parent(class_='flex')
+            player_name = ''
+            if flex_row:
+                # Find all direct children divs of the flex row
+                children = [c for c in flex_row.children if isinstance(c, Tag) and c.name == 'div']
+                # The colored div is in one child, the player name is in the other
+                for child in children:
+                    if div in child.descendants:
+                        # The next sibling div should have the player name
+                        idx = children.index(child)
+                        if idx + 1 < len(children):
+                            name_div = children[idx + 1]
+                            # Get the innermost div's text
+                            inner_div = name_div.find('div')
+                            if inner_div:
+                                player_name = inner_div.get_text(strip=True)
+                            else:
+                                player_name = name_div.get_text(strip=True)
+                        break
+            classes = div.get('class', [])
+            if 'bg-red-300' in classes:
+                players.append(f"(-){player_name}")
+            elif 'bg-green-300' in classes:
+                players.append(f"(+){player_name}")
+            else:
+                players.append(player_name)
+        return ' · '.join(players)
+    # Otherwise, get text content as before
+    return cell.get_text(strip=True).replace("\n", " ")
+
 def extract_headers(table: BeautifulSoup) -> List[str]:
     """Extract headers from a table, handling both th and td in thead/tr."""
     headers = []
@@ -42,6 +101,18 @@ def extract_headers(table: BeautifulSoup) -> List[str]:
     
     return headers
 
+def parse_svg_icon(svg_element) -> str:
+    """Parse SVG element to determine if it represents a plus or minus sign."""
+    if not svg_element:
+        return ""
+        
+    svg_str = str(svg_element).lower()
+    if any(plus_term in svg_str for plus_term in ['plus', 'add', 'positive']):
+        return '+'
+    elif any(minus_term in svg_str for minus_term in ['minus', 'remove', 'negative']):
+        return '-'
+    return ""
+
 def extract_rows(table: BeautifulSoup, header_count: int) -> List[List[str]]:
     """Extract rows from table body, handling various table structures."""
     rows = []
@@ -58,15 +129,15 @@ def extract_rows(table: BeautifulSoup, header_count: int) -> List[List[str]]:
         row = []
         cells = tr.find_all(["td", "th"])  # Include both td and th cells
         
-        # Clean and extract text from each cell
+        # Process each cell
         for cell in cells:
             # Handle colspan
             colspan = int(cell.get('colspan', 1))
-            text = cell.get_text(strip=True).replace("\n", " ")
+            content = extract_cell_content(cell)
             
             # Add the cell value colspan times
             for _ in range(colspan):
-                row.append(text)
+                row.append(content)
         
         # Ensure row matches header count
         if len(row) < header_count:
