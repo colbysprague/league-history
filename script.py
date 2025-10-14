@@ -30,6 +30,10 @@ def parse_svg_icon(element) -> str:
     
     return ""
 
+def sanitize_ascii(text):
+    """Remove or replace non-ASCII characters in text."""
+    return ''.join(c if ord(c) < 128 else ' ' for c in text)
+
 def extract_cell_content(cell) -> str:
     """Extract content from a cell, handling special cases like SVG icons and wrapping divs for each player."""
     from bs4 import Tag
@@ -59,14 +63,14 @@ def extract_cell_content(cell) -> str:
                         break
             classes = div.get('class', [])
             if 'bg-red-300' in classes:
-                players.append(f"(-) {player_name}")
+                players.append(sanitize_ascii(f"(-) {player_name}"))
             elif 'bg-green-300' in classes:
-                players.append(f"(+) {player_name}")
+                players.append(sanitize_ascii(f"(+) {player_name}"))
             else:
-                players.append(player_name)
+                players.append(sanitize_ascii(player_name))
         return ', '.join(players)
     # Otherwise, get text content as before
-    return cell.get_text(strip=True).replace("\n", " ")
+    return sanitize_ascii(cell.get_text(strip=True).replace("\n", " "))
 
 def extract_headers(table: BeautifulSoup) -> List[str]:
     """Extract headers from a table, handling both th and td in thead/tr."""
@@ -207,10 +211,13 @@ def process_html_table(input_file: str, output_file: str) -> None:
     print(f"   - {len(headers)} columns")
     print(f"   - {len(rows)} rows")
 
+def safe_print(text):
+    print(''.join(c if ord(c) < 128 else '?' for c in str(text)))
+
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python3 script.py <input_file> <output_file>")
-        print("Example: python3 script.py input/2019-teams.html csv/2019/teams.csv")
+        safe_print("Usage: python3 script.py <input_file> <output_file>")
+        safe_print("Example: python3 script.py input/2019-teams.html csv/2019/teams.csv")
         sys.exit(1)
 
     input_file = sys.argv[1]
