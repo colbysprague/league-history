@@ -1,0 +1,193 @@
+Pick,Player,Team,Keeper,Note,Misc,Manage
+1.1 (1),Jonathan Taylor   RB   (IND),Adrian  BeatHisSon,--,--,,Open options
+1.2 (2),Christian McCaffrey   RB   (CAR),Moby Huge,--,--,,Open options
+1.3 (3),Austin Ekeler   RB   (LAC),Team greenhouse,--,--,,Open options
+1.4 (4),Derrick Henry   RB   (TEN),Ruggs Race team,--,--,,Open options
+1.5 (5),Najee Harris   RB   (PIT),Get MIXed,--,--,,Open options
+1.6 (6),Cooper Kupp   WR   (LAR),Team Goose,--,--,,Open options
+1.7 (7),Justin Jefferson   WR   (MIN),Ceedeez Nutz,--,--,,Open options
+1.8 (8),Dalvin Cook   RB   (MIN),DalvHIM Cook,--,--,,Open options
+1.9 (9),Joe Mixon   RB   (CIN),Glizzy Gladiators,--,--,,Open options
+1.10 (10),Alvin Kamara   RB   (NO),Team Proctor,--,--,,Open options
+1.11 (11),Ja'Marr Chase   WR   (CIN),Team Tibbetts,--,--,,Open options
+1.12 (12),Davante Adams   WR   (LV),Team Infantino,--,--,,Open options
+2.1 (13),Deebo Samuel   WR   (SF),Team Infantino,--,--,,Open options
+2.2 (14),D'Andre Swift   RB   (DET),Team Tibbetts,--,--,,Open options
+2.3 (15),Stefon Diggs   WR   (BUF),Team Proctor,--,--,,Open options
+2.4 (16),Leonard Fournette   RB   (TB),Glizzy Gladiators,--,--,,Open options
+2.5 (17),Javonte Williams   RB   (DEN),DalvHIM Cook,--,--,,Open options
+2.6 (18),CeeDee Lamb   WR   (DAL),Ceedeez Nutz,--,--,,Open options
+2.7 (19),James Conner   RB   (ARI),Team Goose,--,--,,Open options
+2.8 (20),Travis Kelce   TE   (KC),Get MIXed,--,--,,Open options
+2.9 (21),Saquon Barkley   RB   (NYG),Ruggs Race team,--,--,,Open options
+2.10 (22),Mark Andrews   TE   (BAL),Team greenhouse,--,--,,Open options
+2.11 (23),Tyreek Hill   WR   (MIA),Moby Huge,--,--,,Open options
+2.12 (24),Nick Chubb   RB   (CLE),Adrian  BeatHisSon,--,--,,Open options
+3.1 (25),Keenan Allen   WR   (LAC),Adrian  BeatHisSon,--,--,,Open options
+3.2 (26),Mike Evans   WR   (TB),Moby Huge,--,--,,Open options
+3.3 (27),Aaron Jones   RB   (GB),Team greenhouse,--,--,,Open options
+3.4 (28),Michael Pittman   WR   (IND),Ruggs Race team,--,--,,Open options
+3.5 (29),Cam Akers   RB   (LAR),Get MIXed,--,--,,Open options
+3.6 (30),Kyle Pitts   TE   (ATL),Team Goose,--,--,,Open options
+3.7 (31),Tee Higgins   WR   (CIN),Ceedeez Nutz,--,--,,Open options
+3.8 (32),Terry McLaurin   WR   (WAS),DalvHIM Cook,--,--,,Open options
+3.9 (33),Josh Allen   QB   (BUF),Glizzy Gladiators,--,--,,Open options
+3.10 (34),Ezekiel Elliott   RB   (DAL),Team Proctor,--,--,,Open options
+3.11 (35),A.J. Brown   WR   (PHI),Team Tibbetts,--,--,,Open options
+3.12 (36),D.J. Moore   WR   (CAR),Team Infantino,--,--,,Open options
+4.1 (37),David Montgomery   RB   (CHI),Team Infantino,--,--,,Open options
+4.2 (38),J.K. Dobbins   RB   (LAC),Team Tibbetts,--,--,,Open options
+4.3 (39),Patrick Mahomes   QB   (KC),Team Proctor,--,--,,Open options
+4.4 (40),Jaylen Waddle   WR   (MIA),Glizzy Gladiators,--,--,,Open options
+4.5 (41),Mike Williams   WR   (LAC),DalvHIM Cook,--,--,,Open options
+4.6 (42),Breece Hall   RB   (NYJ),Ceedeez Nutz,--,--,,Open options
+4.7 (43),Diontae Johnson   WR   (PIT),Team Goose,--,--,,Open options
+4.8 (44),Brandin Cooks   WR   (HOU),Get MIXed,--,--,,Open options
+4.9 (45),George Kittle   TE   (SF),Ruggs Race team,--,--,,Open options
+4.10 (46),DK Metcalf   WR   (SEA),Team greenhouse,--,--,,Open options
+4.11 (47),Marquise Brown   WR   (ARI),Moby Huge,--,--,,Open options
+4.12 (48),Jerry Jeudy   WR   (DEN),Adrian  BeatHisSon,--,--,,Open options
+5.1 (49),Justin Herbert   QB   (LAC),Adrian  BeatHisSon,--,--,,Open options
+5.2 (50),Jalen Hurts   QB   (PHI),Moby Huge,--,--,,Open options
+5.3 (51),Amon-Ra St. Brown   WR   (DET),Team greenhouse,--,--,,Open options
+5.4 (52),Hunter Renfrow   WR   (LV),Ruggs Race team,--,--,,Open options
+5.5 (53),Courtland Sutton   WR   (DEN),Get MIXed,--,--,,Open options
+5.6 (54),Travis Etienne   RB   (JAX),Team Goose,--,--,,Open options
+5.7 (55),Josh Jacobs   RB   (LV),Ceedeez Nutz,--,--,,Open options
+5.8 (56),Darren Waller   TE   (LV),DalvHIM Cook,--,--,,Open options
+5.9 (57),Darnell Mooney   WR   (CHI),Glizzy Gladiators,--,--,,Open options
+5.10 (58),Adam Thielen   WR   (MIN),Team Proctor,--,--,,Open options
+5.11 (59),Gabriel Davis   WR   (BUF),Team Tibbetts,--,--,,Open options
+5.12 (60),Antonio Gibson   RB   (WAS),Team Infantino,--,--,,Open options
+6.1 (61),Lamar Jackson   QB   (BAL),Team Infantino,--,--,,Open options
+6.2 (62),Kyler Murray   QB   (ARI),Team Tibbetts,--,--,,Open options
+6.3 (63),Dalton Schultz   TE   (DAL),Team Proctor,--,--,,Open options
+6.4 (64),Chris Godwin   WR   (TB),Glizzy Gladiators,--,--,,Open options
+6.5 (65),DeVonta Smith   WR   (PHI),DalvHIM Cook,--,--,,Open options
+6.6 (66),Elijah Mitchell   RB   (SF),Ceedeez Nutz,--,--,,Open options
+6.7 (67),Devin Singletary   RB   (BUF),Team Goose,--,--,,Open options
+6.8 (68),Tom Brady   QB   (TB),Get MIXed,--,--,,Open options
+6.9 (69),Aaron Rodgers   QB   (GB),Ruggs Race team,--,--,,Open options
+6.10 (70),Miles Sanders   RB   (PHI),Team greenhouse,--,--,,Open options
+6.11 (71),T.J. Hockenson   TE   (DET),Moby Huge,--,--,,Open options
+6.12 (72),Michael Thomas   WR   (NO),Adrian  BeatHisSon,--,--,,Open options
+7.1 (73),Mike Gesicki   TE   (MIA),Adrian  BeatHisSon,--,--,,Open options
+7.2 (74),Amari Cooper   WR   (CLE),Moby Huge,--,--,,Open options
+7.3 (75),Russell Wilson   QB   (DEN),Team greenhouse,--,--,,Open options
+7.4 (76),Tyler Lockett   WR   (SEA),Ruggs Race team,--,--,,Open options
+7.5 (77),JuJu Smith-Schuster   WR   (KC),Get MIXed,--,--,,Open options
+7.6 (78),Allen Robinson   WR   (LAR),Team Goose,--,--,,Open options
+7.7 (79),Dallas Goedert   TE   (PHI),Ceedeez Nutz,--,--,,Open options
+7.8 (80),Tony Pollard   RB   (DAL),DalvHIM Cook,--,--,,Open options
+7.9 (81),Pat Freiermuth   TE   (PIT),Glizzy Gladiators,--,--,,Open options
+7.10 (82),Damien Harris   RB   (NE),Team Proctor,--,--,,Open options
+7.11 (83),Zach Ertz   TE   (ARI),Team Tibbetts,--,--,,Open options
+7.12 (84),Rashod Bateman   WR   (BAL),Team Infantino,--,--,,Open options
+8.1 (85),Drake London   WR   (ATL),Team Infantino,--,--,,Open options
+8.2 (86),Clyde Edwards-Helaire   RB   (KC),Team Tibbetts,--,--,,Open options
+8.3 (87),Allen Lazard   WR   (NYJ),Team Proctor,--,--,,Open options
+8.4 (88),Evan McPherson   K   (CIN),Glizzy Gladiators,--,--,,Open options
+8.5 (89),Christian Kirk   WR   (JAX),DalvHIM Cook,--,--,,Open options
+8.6 (90),Dak Prescott   QB   (DAL),Ceedeez Nutz,--,--,,Open options
+8.7 (91),Kareem Hunt   RB   (CLE),Team Goose,--,--,,Open options
+8.8 (92),AJ Dillon   RB   (GB),Get MIXed,--,--,,Open options
+8.9 (93),Cordarrelle Patterson   RB   (ATL),Ruggs Race team,--,--,,Open options
+8.10 (94),Brandon Aiyuk   WR   (SF),Team greenhouse,--,--,,Open options
+8.11 (95),Rhamondre Stevenson   RB   (NE),Moby Huge,--,--,,Open options
+8.12 (96),Jakobi Meyers   WR   (NE),Adrian  BeatHisSon,--,--,,Open options
+9.1 (97),Justin Tucker   K   (BAL),Adrian  BeatHisSon,--,--,,Open options
+9.2 (98),Elijah Moore   WR   (NYJ),Moby Huge,--,--,,Open options
+9.3 (99),Kadarius Toney   WR   (NYG),Team greenhouse,--,--,,Open options
+9.4 (100),Buffalo Bills   DEF   (BUF),Ruggs Race team,--,--,,Open options
+9.5 (101),Chris Olave   WR   (NO),Get MIXed,--,--,,Open options
+9.6 (102),Joe Burrow   QB   (CIN),Team Goose,--,--,,Open options
+9.7 (103),Chase Edmonds   RB   (MIA),Ceedeez Nutz,--,--,,Open options
+9.8 (104),Derek Carr   QB   (LV),DalvHIM Cook,--,--,,Open options
+9.9 (105),New Orleans Saints   DEF   (NO),Glizzy Gladiators,--,--,,Open options
+9.10 (106),Matt Gay   K   (LAR),Team Proctor,--,--,,Open options
+9.11 (107),Garrett Wilson   WR   (NYJ),Team Tibbetts,--,--,,Open options
+9.12 (108),Matthew Stafford   QB   (LAR),Team Infantino,--,--,,Open options
+10.1 (109),Robert Woods   WR   (TEN),Team Infantino,--,--,,Open options
+10.2 (110),Nick Folk   K   (NE),Team Tibbetts,--,--,,Open options
+10.3 (111),Chase Claypool   WR   (PIT),Team Proctor,--,--,,Open options
+10.4 (112),DeAndre Hopkins   WR   (TEN),Glizzy Gladiators,--,--,,Open options
+10.5 (113),Harrison Butker   K   (KC),DalvHIM Cook,--,--,,Open options
+10.6 (114),Trey Lance   QB   (SF),Ceedeez Nutz,--,--,,Open options
+10.7 (115),Rashaad Penny   RB   (SEA),Team Goose,--,--,,Open options
+10.8 (116),Green Bay Packers   DEF   (GB),Get MIXed,--,--,,Open options
+10.9 (117),Daniel Carlson   K   (LV),Ruggs Race team,--,--,,Open options
+10.10 (118),James Robinson   RB   (JAX),Team greenhouse,--,--,,Open options
+10.11 (119),James Cook   RB   (BUF),Moby Huge,--,--,,Open options
+10.12 (120),Dameon Pierce   RB   (HOU),Adrian  BeatHisSon,--,--,,Open options
+11.1 (121),Tyler Boyd   WR   (CIN),Adrian  BeatHisSon,--,--,,Open options
+11.2 (122),Kenneth Walker III   RB   (SEA),Moby Huge,--,--,,Open options
+11.3 (123),Russell Gage   WR   (TB),Team greenhouse,--,--,,Open options
+11.4 (124),Nyheim Hines   RB   (IND),Ruggs Race team,--,--,,Open options
+11.5 (125),Matt Prater   K   (ARI),Get MIXed,--,--,,Open options
+11.6 (126),Kenny Golladay   WR   (NYG),Team Goose,--,--,,Open options
+11.7 (127),Marquez Valdes-Scantling   WR   (KC),Ceedeez Nutz,--,--,,Open options
+11.8 (128),Skyy Moore   WR   (KC),DalvHIM Cook,--,--,,Open options
+11.9 (129),Treylon Burks   WR   (TEN),Glizzy Gladiators,--,--,,Open options
+11.10 (130),Michael Carter   RB   (NYJ),Team Proctor,--,--,,Open options
+11.11 (131),Melvin Gordon   RB   (DEN),Team Tibbetts,--,--,,Open options
+11.12 (132),Cole Kmet   TE   (CHI),Team Infantino,--,--,,Open options
+12.1 (133),J.D. McKissic   RB   (WAS),Team Infantino,--,--,,Open options
+12.2 (134),Kirk Cousins   QB   (MIN),Team Tibbetts,--,--,,Open options
+12.3 (135),Tampa Bay Buccaneers   DEF   (TB),Team Proctor,--,--,,Open options
+12.4 (136),Hunter Henry   TE   (NE),Glizzy Gladiators,--,--,,Open options
+12.5 (137),DeVante Parker   WR   (NE),DalvHIM Cook,--,--,,Open options
+12.6 (138),Baltimore Ravens   DEF   (BAL),Ceedeez Nutz,--,--,,Open options
+12.7 (139),Jarvis Landry   WR   (NO),Team Goose,--,--,,Open options
+12.8 (140),George Pickens   WR   (PIT),Get MIXed,--,--,,Open options
+12.9 (141),Marvin Jones   WR   (JAX),Ruggs Race team,--,--,,Open options
+12.10 (142),Dawson Knox   TE   (BUF),Team greenhouse,--,--,,Open options
+12.11 (143),San Francisco 49ers   DEF   (SF),Moby Huge,--,--,,Open options
+12.12 (144),D.J. Chark   WR   (DET),Adrian  BeatHisSon,--,--,,Open options
+13.1 (145),Mac Jones   QB   (NE),Adrian  BeatHisSon,--,--,,Open options
+13.2 (146),Trevor Lawrence   QB   (JAX),Moby Huge,--,--,,Open options
+13.3 (147),Dallas Cowboys   DEF   (DAL),Team greenhouse,--,--,,Open options
+13.4 (148),Carson Wentz   QB   (WAS),Ruggs Race team,--,--,,Open options
+13.5 (149),Raheem Mostert   RB   (MIA),Get MIXed,--,--,,Open options
+13.6 (150),Tua Tagovailoa   QB   (MIA),Team Goose,--,--,,Open options
+13.7 (151),Justin Fields   QB   (CHI),Ceedeez Nutz,--,--,,Open options
+13.8 (152),Los Angeles Chargers   DEF   (LAC),DalvHIM Cook,--,--,,Open options
+13.9 (153),Marlon Mack   RB   (ARI),Glizzy Gladiators,--,--,,Open options
+13.10 (154),Mecole Hardman   WR   (KC),Team Proctor,--,--,,Open options
+13.11 (155),Indianapolis Colts   DEF   (IND),Team Tibbetts,--,--,,Open options
+13.12 (156),Pittsburgh Steelers   DEF   (PIT),Team Infantino,--,--,,Open options
+14.1 (157),Jahan Dotson   WR   (WAS),Team Infantino,--,--,,Open options
+14.2 (158),Joshua Palmer   WR   (LAC),Team Tibbetts,--,--,,Open options
+14.3 (159),Jamaal Williams   RB   (DET),Team Proctor,--,--,,Open options
+14.4 (160),Tyler Bass   K   (BUF),Glizzy Gladiators,--,--,,Open options
+14.5 (161),Isaiah Spiller   RB   (LAC),DalvHIM Cook,--,--,,Open options
+14.6 (162),Robbie Chosen   WR   (CAR),Ceedeez Nutz,--,--,,Open options
+14.7 (163),Washington Commanders   DEF   (WAS),Team Goose,--,--,,Open options
+14.8 (164),Rondale Moore   WR   (ATL),Get MIXed,--,--,,Open options
+14.9 (165),Tyler Higbee   TE   (LAR),Ruggs Race team,--,--,,Open options
+14.10 (166),David Njoku   TE   (CLE),Team greenhouse,--,--,,Open options
+14.11 (167),Brandon McManus   K   (DEN),Moby Huge,--,--,,Open options
+14.12 (168),Julio Jones   WR   (TB),Adrian  BeatHisSon,--,--,,Open options
+15.1 (169),Los Angeles Rams   DEF   (LAR),Adrian  BeatHisSon,--,--,,Open options
+15.2 (170),Noah Fant   TE   (SEA),Moby Huge,--,--,,Open options
+15.3 (171),Alexander Mattison   RB   (MIN),Team greenhouse,--,--,,Open options
+15.4 (172),Van Jefferson   WR   (PIT),Ruggs Race team,--,--,,Open options
+15.5 (173),Jalen Tolbert   WR   (DAL),Get MIXed,--,--,,Open options
+15.6 (174),Irv Smith   TE   (MIN),Team Goose,--,--,,Open options
+15.7 (175),Graham Gano   K   (NYG),Ceedeez Nutz,--,--,,Open options
+15.8 (176),Kyle Rudolph   TE   (FA),DalvHIM Cook,--,--,,Open options
+15.9 (177),Rex Burkhead   RB   (HOU),Glizzy Gladiators,--,--,,Open options
+15.10 (178),Austin Hooper   TE   (TEN),Team Proctor,--,--,,Open options
+15.11 (179),Darrell Henderson   RB   (LAR),Team Tibbetts,--,--,,Open options
+15.12 (180),Kenneth Gainwell   RB   (PHI),Team Infantino,--,--,,Open options
+16.1 (181),Greg Joseph   K   (MIN),Team Infantino,--,--,,Open options
+16.2 (182),Khalil Herbert   RB   (CHI),Team Tibbetts,--,--,,Open options
+16.3 (183),Zach Wilson   QB   (DEN),Team Proctor,--,--,,Open options
+16.4 (184),Daniel Jones   QB   (NYG),Glizzy Gladiators,--,--,,Open options
+16.5 (185),Curtis Samuel   WR   (WAS),DalvHIM Cook,--,--,,Open options
+16.6 (186),Tyler Allgeier   RB   (ATL),Ceedeez Nutz,--,--,,Open options
+16.7 (187),Jake Elliott   K   (PHI),Team Goose,--,--,,Open options
+16.8 (188),Jameis Winston   QB   (NO),Get MIXed,--,--,,Open options
+16.9 (189),Sony Michel   RB   (LAC),Ruggs Race team,--,--,,Open options
+16.10 (190),Robbie Gould   K   (SF),Team greenhouse,--,--,,Open options
+16.11 (191),Brian Robinson   RB   (WAS),Moby Huge,--,--,,Open options
+16.12 (192),Ronald Jones   RB   (FA),Adrian  BeatHisSon,--,--,,Open options
