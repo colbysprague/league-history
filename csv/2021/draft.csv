@@ -1,0 +1,161 @@
+Pick,Player,Team,Keeper,Note,Misc,Manage
+1.1 (1),Le'Veon Bell   RB   (FA),Team sprague,--,--,,Open options
+1.2 (2),Todd Gurley   RB   (LAR),LA heavy nuts,--,--,,Open options
+1.3 (3),David Johnson   RB   (ARI),Suck my Cheznutz,--,--,,Open options
+1.4 (4),Ezekiel Elliott   RB   (DAL),Team Iannacci,--,--,,Open options
+1.5 (5),Antonio Brown   WR   (PIT),Team Infantino,--,--,,Open options
+1.6 (6),Alvin Kamara   RB   (NO),Team Proctor,--,--,,Open options
+1.7 (7),Saquon Barkley   RB   (NYG),Dreamville Goats,--,--,,Open options
+1.8 (8),DeAndre Hopkins   WR   (HOU),Team Rivers,--,--,,Open options
+1.9 (9),Julio Jones   WR   (ATL),Team tibbetts,--,--,,Open options
+1.10 (10),Aaron Rodgers   QB   (GB),Team Hyatt,--,--,,Open options
+2.1 (11),Tom Brady   QB   (NE),Team Hyatt,--,--,,Open options
+2.2 (12),Odell Beckham   WR   (NYG),Team tibbetts,--,--,,Open options
+2.3 (13),Keenan Allen   WR   (LAC),Team Rivers,--,--,,Open options
+2.4 (14),A.J. Green   WR   (CIN),Dreamville Goats,--,--,,Open options
+2.5 (15),Michael Thomas   WR   (NO),Team Proctor,--,--,,Open options
+2.6 (16),Kareem Hunt   RB   (KC),Team Infantino,--,--,,Open options
+2.7 (17),Dalvin Cook   RB   (MIN),Team Iannacci,--,--,,Open options
+2.8 (18),Leonard Fournette   RB   (JAX),Suck my Cheznutz,--,--,,Open options
+2.9 (19),Melvin Gordon   RB   (LAC),LA heavy nuts,--,--,,Open options
+2.10 (20),Christian McCaffrey   RB   (CAR),Team sprague,--,--,,Open options
+3.1 (21),Deshaun Watson   QB   (HOU),Team sprague,--,--,,Open options
+3.2 (22),Devonta Freeman   RB   (ATL),LA heavy nuts,--,--,,Open options
+3.3 (23),Davante Adams   WR   (GB),Suck my Cheznutz,--,--,,Open options
+3.4 (24),Rob Gronkowski   TE   (NE),Team Iannacci,--,--,,Open options
+3.5 (25),Carson Wentz   QB   (KC),Team Infantino,--,--,,Open options
+3.6 (26),LeSean McCoy   RB   (BUF),Team Proctor,--,--,,Open options
+3.7 (27),Jordan Howard   RB   (CHI),Dreamville Goats,--,--,,Open options
+3.8 (28),T.Y. Hilton   WR   (IND),Team Rivers,--,--,,Open options
+3.9 (29),Mike Evans   WR   (TB),Team tibbetts,--,--,,Open options
+3.10 (30),Travis Kelce   TE   (KC),Team Hyatt,--,--,,Open options
+4.1 (31),Jerick McKinnon   RB   (FA),Team Hyatt,--,--,,Open options
+4.2 (32),Joe Mixon   RB   (CIN),Team tibbetts,--,--,,Open options
+4.3 (33),Ben Roethlisberger   QB   (PIT),Team Rivers,--,--,,Open options
+4.4 (34),Russell Wilson   QB   (SEA),Dreamville Goats,--,--,,Open options
+4.5 (35),Adam Thielen   WR   (MIN),Team Proctor,--,--,,Open options
+4.6 (36),Larry Fitzgerald   WR   (ARI),Team Infantino,--,--,,Open options
+4.7 (37),Stefon Diggs   WR   (MIN),Team Iannacci,--,--,,Open options
+4.8 (38),Zach Ertz   TE   (PHI),Suck my Cheznutz,--,--,,Open options
+4.9 (39),Tyreek Hill   WR   (KC),LA heavy nuts,--,--,,Open options
+4.10 (40),Jarvis Landry   WR   (CLE),Team sprague,--,--,,Open options
+5.1 (41),Greg Olsen   TE   (CAR),Team sprague,--,--,,Open options
+5.2 (42),Demaryius Thomas   WR   (DEN),LA heavy nuts,--,--,,Open options
+5.3 (43),Doug Baldwin   WR   (SEA),Suck my Cheznutz,--,--,,Open options
+5.4 (44),Allen Robinson   WR   (CHI),Team Iannacci,--,--,,Open options
+5.5 (45),Kenyan Drake   RB   (MIA),Team Infantino,--,--,,Open options
+5.6 (46),Cam Newton   QB   (CAR),Team Proctor,--,--,,Open options
+5.7 (47),Brandin Cooks   WR   (LAR),Dreamville Goats,--,--,,Open options
+5.8 (48),Kirk Cousins   QB   (MIN),Team Rivers,--,--,,Open options
+5.9 (49),Royce Freeman   RB   (DEN),Team tibbetts,--,--,,Open options
+5.10 (50),Golden Tate   WR   (DET),Team Hyatt,--,--,,Open options
+6.1 (51),Amari Cooper   WR   (LV),Team Hyatt,--,--,,Open options
+6.2 (52),Josh Gordon   WR   (CLE),Team tibbetts,--,--,,Open options
+6.3 (53),Dion Lewis   RB   (TEN),Team Rivers,--,--,,Open options
+6.4 (54),Jimmy Graham   TE   (GB),Dreamville Goats,--,--,,Open options
+6.5 (55),Evan Engram   TE   (NYG),Team Proctor,--,--,,Open options
+6.6 (56),Delanie Walker   TE   (TEN),Team Infantino,--,--,,Open options
+6.7 (57),Marvin Jones   WR   (DET),Team Iannacci,--,--,,Open options
+6.8 (58),Alshon Jeffery   WR   (FA),Suck my Cheznutz,--,--,,Open options
+6.9 (59),Derrick Henry   RB   (TEN),LA heavy nuts,--,--,,Open options
+6.10 (60),Chris Hogan   WR   (NE),Team sprague,--,--,,Open options
+7.1 (61),Rex Burkhead   RB   (NE),Team sprague,--,--,,Open options
+7.2 (62),Alex Collins   RB   (BAL),LA heavy nuts,--,--,,Open options
+7.3 (63),Jay Ajayi   RB   (PHI),Suck my Cheznutz,--,--,,Open options
+7.4 (64),Marshawn Lynch   RB   (LV),Team Iannacci,--,--,,Open options
+7.5 (65),JuJu Smith-Schuster   WR   (PIT),Team Infantino,--,--,,Open options
+7.6 (66),Duke Johnson   RB   (CLE),Team Proctor,--,--,,Open options
+7.7 (67),Marquise Goodwin   WR   (SF),Dreamville Goats,--,--,,Open options
+7.8 (68),Kyle Rudolph   TE   (MIN),Team Rivers,--,--,,Open options
+7.9 (69),Lamar Miller   RB   (HOU),Team tibbetts,--,--,,Open options
+7.10 (70),Mark Ingram   RB   (FA),Team Hyatt,--,--,,Open options
+8.1 (71),Robert Woods   WR   (LAR),Team Hyatt,--,--,,Open options
+8.2 (72),Michael Crabtree   WR   (BAL),Team tibbetts,--,--,,Open options
+8.3 (73),Jacksonville Jaguars   DEF   (JAX),Team Rivers,--,--,,Open options
+8.4 (74),Tevin Coleman   RB   (ATL),Dreamville Goats,--,--,,Open options
+8.5 (75),Greg Zuerlein   K   (LAR),Team Proctor,--,--,,Open options
+8.6 (76),Carlos Hyde   RB   (CLE),Team Infantino,--,--,,Open options
+8.7 (77),Sterling Shepard   WR   (NYG),Team Iannacci,--,--,,Open options
+8.8 (78),Emmanuel Sanders   WR   (DEN),Suck my Cheznutz,--,--,,Open options
+8.9 (79),Isaiah Crowell   RB   (NYJ),LA heavy nuts,--,--,,Open options
+8.10 (80),Corey Davis   WR   (TEN),Team sprague,--,--,,Open options
+9.1 (81),Jimmy Garoppolo   QB   (SF),Team sprague,--,--,,Open options
+9.2 (82),Sammy Watkins   WR   (KC),LA heavy nuts,--,--,,Open options
+9.3 (83),Randall Cobb   WR   (GB),Suck my Cheznutz,--,--,,Open options
+9.4 (84),Devin Funchess   TE   (CAR),Team Iannacci,--,--,,Open options
+9.5 (85),Will Fuller   WR   (FA),Team Infantino,--,--,,Open options
+9.6 (86),Robbie Chosen   WR   (NYJ),Team Proctor,--,--,,Open options
+9.7 (87),Julian Edelman   WR   (FA),Dreamville Goats,--,--,,Open options
+9.8 (88),James White   RB   (NE),Team Rivers,--,--,,Open options
+9.9 (89),Pierre Garcon   WR   (SF),Team tibbetts,--,--,,Open options
+9.10 (90),Chris Thompson   RB   (WAS),Team Hyatt,--,--,,Open options
+10.1 (91),Cooper Kupp   WR   (LAR),Team Hyatt,--,--,,Open options
+10.2 (92),Jordan Reed   TE   (WAS),Team tibbetts,--,--,,Open options
+10.3 (93),Stephen Gostkowski   K   (NE),Team Rivers,--,--,,Open options
+10.4 (94),Chris Carson   RB   (SEA),Dreamville Goats,--,--,,Open options
+10.5 (95),Andrew Luck   QB   (IND),Team Proctor,--,--,,Open options
+10.6 (96),Justin Tucker   K   (BAL),Team Infantino,--,--,,Open options
+10.7 (97),Jamison Crowder   WR   (WAS),Team Iannacci,--,--,,Open options
+10.8 (98),Tarik Cohen   RB   (CHI),Suck my Cheznutz,--,--,,Open options
+10.9 (99),Kerryon Johnson   RB   (DET),LA heavy nuts,--,--,,Open options
+10.10 (100),Sony Michel   RB   (FA),Team sprague,--,--,,Open options
+11.1 (101),Chris Boswell   K   (PIT),Team sprague,--,--,,Open options
+11.2 (102),Rashaad Penny   RB   (SEA),LA heavy nuts,--,--,,Open options
+11.3 (103),Matthew Stafford   QB   (DET),Suck my Cheznutz,--,--,,Open options
+11.4 (104),Ronald Jones   RB   (FA),Team Iannacci,--,--,,Open options
+11.5 (105),Matt Ryan   QB   (ATL),Team Infantino,--,--,,Open options
+11.6 (106),Baltimore Ravens   DEF   (BAL),Team Proctor,--,--,,Open options
+11.7 (107),Drew Brees   QB   (NO),Dreamville Goats,--,--,,Open options
+11.8 (108),Marcus Mariota   QB   (TEN),Team Rivers,--,--,,Open options
+11.9 (109),Kelvin Benjamin   TE   (BUF),Team tibbetts,--,--,,Open options
+11.10 (110),Josh Doctson   WR   (WAS),Team Hyatt,--,--,,Open options
+12.1 (111),DeVante Parker   WR   (FA),Team Hyatt,--,--,,Open options
+12.2 (112),Jamaal Williams   RB   (GB),Team tibbetts,--,--,,Open options
+12.3 (113),Jordy Nelson   WR   (LV),Team Rivers,--,--,,Open options
+12.4 (114),Minnesota Vikings   DEF   (MIN),Dreamville Goats,--,--,,Open options
+12.5 (115),Mohamed Sanu   WR   (ATL),Team Proctor,--,--,,Open options
+12.6 (116),Los Angeles Rams   DEF   (LAR),Team Infantino,--,--,,Open options
+12.7 (117),Peyton Barber   RB   (TB),Team Iannacci,--,--,,Open options
+12.8 (118),Alex Smith   QB   (WAS),Suck my Cheznutz,--,--,,Open options
+12.9 (119),Jack Doyle   TE   (IND),LA heavy nuts,--,--,,Open options
+12.10 (120),Philadelphia Eagles   DEF   (PHI),Team sprague,--,--,,Open options
+13.1 (121),Houston Texans   DEF   (HOU),Team sprague,--,--,,Open options
+13.2 (122),Kenny Stills   WR   (MIA),LA heavy nuts,--,--,,Open options
+13.3 (123),Marqise Lee   WR   (FA),Suck my Cheznutz,--,--,,Open options
+13.4 (124),Nelson Agholor   WR   (PHI),Team Iannacci,--,--,,Open options
+13.5 (125),Dez Bryant   WR   (FA),Team Infantino,--,--,,Open options
+13.6 (126),Allen Hurns   WR   (DAL),Team Proctor,--,--,,Open options
+13.7 (127),Matt Bryant   K   (ATL),Dreamville Goats,--,--,,Open options
+13.8 (128),Giovani Bernard   RB   (CIN),Team Rivers,--,--,,Open options
+13.9 (129),Paul Richardson   WR   (WAS),Team tibbetts,--,--,,Open options
+13.10 (130),Kenny Golladay   WR   (NYJ),Team Hyatt,--,--,,Open options
+14.1 (131),Cameron Meredith   WR   (FA),Team Hyatt,--,--,,Open options
+14.2 (132),Patrick Mahomes   QB   (KC),Team tibbetts,--,--,,Open options
+14.3 (133),Charles Clay   TE   (BUF),Team Rivers,--,--,,Open options
+14.4 (134),Danny Amendola   WR   (MIA),Dreamville Goats,--,--,,Open options
+14.5 (135),David Njoku   TE   (CLE),Team Proctor,--,--,,Open options
+14.6 (136),Ty Montgomery   RB   (GB),Team Infantino,--,--,,Open options
+14.7 (137),Philip Rivers   QB   (LAC),Team Iannacci,--,--,,Open options
+14.8 (138),John Ross   WR   (CIN),Suck my Cheznutz,--,--,,Open options
+14.9 (139),Dak Prescott   QB   (DAL),LA heavy nuts,--,--,,Open options
+14.10 (140),New England Patriots   DEF   (NE),Team sprague,--,--,,Open options
+15.1 (141),Nick Chubb   RB   (CLE),Team sprague,--,--,,Open options
+15.2 (142),Los Angeles Chargers   DEF   (LAC),LA heavy nuts,--,--,,Open options
+15.3 (143),Tennessee Titans   DEF   (TEN),Suck my Cheznutz,--,--,,Open options
+15.4 (144),Denver Broncos   DEF   (DEN),Team Iannacci,--,--,,Open options
+15.5 (145),Trey Burton   TE   (CHI),Team Infantino,--,--,,Open options
+15.6 (146),Theo Riddick   RB   (DET),Team Proctor,--,--,,Open options
+15.7 (147),Michael Gallup   WR   (DAL),Dreamville Goats,--,--,,Open options
+15.8 (148),Robbie Gould   K   (SF),Team Rivers,--,--,,Open options
+15.9 (149),New Orleans Saints   DEF   (NO),Team tibbetts,--,--,,Open options
+15.10 (150),Carolina Panthers   DEF   (CAR),Team Hyatt,--,--,,Open options
+16.1 (151),Wil Lutz   K   (NO),Team Hyatt,--,--,,Open options
+16.2 (152),Jake Elliott   K   (PHI),Team tibbetts,--,--,,Open options
+16.3 (153),Arizona Cardinals   DEF   (ARI),Team Rivers,--,--,,Open options
+16.4 (154),Tyler Lockett   WR   (SEA),Dreamville Goats,--,--,,Open options
+16.5 (155),Harrison Butker   K   (KC),Team Proctor,--,--,,Open options
+16.6 (156),James Washington   WR   (FA),Team Infantino,--,--,,Open options
+16.7 (157),Matt Prater   K   (DET),Team Iannacci,--,--,,Open options
+16.8 (158),Adam Vinatieri   K   (IND),Suck my Cheznutz,--,--,,Open options
+16.9 (159),Graham Gano   K   (CAR),LA heavy nuts,--,--,,Open options
+16.10 (160),DeSean Jackson   WR   (TB),Team sprague,--,--,,Open options
