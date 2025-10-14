@@ -19,6 +19,30 @@
         .file { cursor: pointer; padding-left: 1.7rem; }
         .file:hover, .folder:hover { color: #0d6efd; }
         .selected { color: #0d6efd; font-weight: bold; }
+        
+        /* Sorting styles */
+        .sortable {
+            cursor: pointer;
+            position: relative;
+            padding-right: 20px;
+        }
+        .sortable:hover {
+            background-color: #f8f9fa;
+        }
+        .sortable::after {
+            content: '↕';
+            position: absolute;
+            right: 5px;
+            opacity: 0.3;
+        }
+        .sortable.asc::after {
+            content: '↑';
+            opacity: 1;
+        }
+        .sortable.desc::after {
+            content: '↓';
+            opacity: 1;
+        }
     </style>
 </head>
 <body>
@@ -145,6 +169,27 @@
                 });
             }
 
+            // Function to compare values for sorting
+            function compareValues(a, b, isAsc) {
+                // Check if values are numbers
+                const numA = Number(a);
+                const numB = Number(b);
+                if (!isNaN(numA) && !isNaN(numB)) {
+                    return isAsc ? numA - numB : numB - numA;
+                }
+                // String comparison
+                return isAsc ? 
+                    (a || '').localeCompare(b || '') : 
+                    (b || '').localeCompare(a || '');
+            }
+
+            // Function to sort table data
+            function sortData(data, column, isAsc) {
+                return [...data].sort((a, b) => 
+                    compareValues(a[column], b[column], isAsc)
+                );
+            }
+
             // Function to display CSV data in a table
             function displayData(data) {
                 if (data.length === 0) {
@@ -153,18 +198,24 @@
                 }
 
                 const headers = Object.keys(data[0]);
+                // Filter out Misc and Manage columns
+                const filteredHeaders = headers.filter(header => 
+                    !header.toLowerCase().includes('misc') && 
+                    !header.toLowerCase().includes('manage')
+                );
+
                 let tableHTML = '<table class="table table-striped table-bordered">\n<thead>\n<tr>';
                 
-                // Add headers
-                headers.forEach(header => {
-                    tableHTML += `<th>${header}</th>`;
+                // Add headers with sorting
+                filteredHeaders.forEach(header => {
+                    tableHTML += `<th class="sortable" data-column="${header}">${header}</th>`;
                 });
                 tableHTML += '</tr>\n</thead>\n<tbody>';
 
                 // Add data rows
                 data.forEach(row => {
                     tableHTML += '<tr>';
-                    headers.forEach(header => {
+                    filteredHeaders.forEach(header => {
                         tableHTML += `<td>${row[header] || ''}</td>`;
                     });
                     tableHTML += '</tr>';
@@ -172,6 +223,33 @@
 
                 tableHTML += '</tbody></table>';
                 $('#tableContainer').html(tableHTML);
+
+                // Add sorting event handlers
+                $('.sortable').click(function() {
+                    const column = $(this).data('column');
+                    const $header = $(this);
+                    const isAsc = !$header.hasClass('asc');
+                    
+                    // Update sorting indicators
+                    $('.sortable').removeClass('asc desc');
+                    $header.addClass(isAsc ? 'asc' : 'desc');
+                    
+                    // Sort the data
+                    const sortedData = sortData(data, column, isAsc);
+                    
+                    // Update table body
+                    const $tbody = $header.closest('table').find('tbody');
+                    $tbody.empty();
+                    
+                    sortedData.forEach(row => {
+                        let rowHTML = '<tr>';
+                        filteredHeaders.forEach(header => {
+                            rowHTML += `<td>${row[header] || ''}</td>`;
+                        });
+                        rowHTML += '</tr>';
+                        $tbody.append(rowHTML);
+                    });
+                });
             }
 
             // Initialize by building the file tree
