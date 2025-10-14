@@ -114,7 +114,7 @@
                                     <li>
                                         <div class="file" data-url="${subItem.download_url}">
                                             <i class="bi bi-file-earmark-text"></i>
-                                            ${subItem.name}
+                                            ${subItem.name.replace(/\.csv$/, '')}
                                         </div>
                                     </li>
                                 `);
@@ -125,7 +125,7 @@
                             <li>
                                 <div class="file" data-url="${item.download_url}">
                                     <i class="bi bi-file-earmark-text"></i>
-                                    ${item.name}
+                                    ${item.name.replace(/\.csv$/, '')}
                                 </div>
                             </li>
                         `);
