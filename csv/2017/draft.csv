@@ -1,0 +1,161 @@
+Pick,Player,Team,Keeper,Note,Misc,Manage
+1.1 (1),David Johnson · RB · (ARI),Team Cote,--,--,,Open options
+1.2 (2),Aaron Rodgers · QB · (GB),Team Hyatt,--,--,,Open options
+1.3 (3),Le'Veon Bell · RB · (PIT),Team sprague,--,--,,Open options
+1.4 (4),Antonio Brown · WR · (PIT),Team Rivers,--,--,,Open options
+1.5 (5),LeSean McCoy · RB · (BUF),Barbeque Chicken,--,--,,Open options
+1.6 (6),Devonta Freeman · RB · (ATL),Team Fax,--,--,,Open options
+1.7 (7),Julio Jones · WR · (ATL),Suck My  Cheznuts,--,--,,Open options
+1.8 (8),Jordy Nelson · WR · (GB),South Side Boys,--,--,,Open options
+1.9 (9),Melvin Gordon · RB · (LAC),Tibbetts Squad,--,--,,Open options
+1.10 (10),Odell Beckham · WR · (MIA),Team Infantino,--,--,,Open options
+2.1 (11),Tom Brady · QB · (NE),Team Infantino,--,--,,Open options
+2.2 (12),Drew Brees · QB · (NO),Tibbetts Squad,--,--,,Open options
+2.3 (13),Matt Ryan · QB · (ATL),South Side Boys,--,--,,Open options
+2.4 (14),Todd Gurley · RB · (LAR),Suck My  Cheznuts,--,--,,Open options
+2.5 (15),Dak Prescott · QB · (DAL),Team Fax,--,--,,Open options
+2.6 (16),Kirk Cousins · QB · (WAS),Barbeque Chicken,--,--,,Open options
+2.7 (17),A.J. Green · WR · (CIN),Team Rivers,--,--,,Open options
+2.8 (18),Mike Evans · WR · (TB),Team sprague,--,--,,Open options
+2.9 (19),Michael Thomas · WR · (NO),Team Hyatt,--,--,,Open options
+2.10 (20),Russell Wilson · QB · (SEA),Team Cote,--,--,,Open options
+3.1 (21),Dez Bryant · WR · (DAL),Team Cote,--,--,,Open options
+3.2 (22),Rob Gronkowski · TE · (NE),Team Hyatt,--,--,,Open options
+3.3 (23),Amari Cooper · WR · (LV),Team sprague,--,--,,Open options
+3.4 (24),Jay Ajayi · RB · (FA),Team Rivers,--,--,,Open options
+3.5 (25),Brandin Cooks · WR · (NE),Barbeque Chicken,--,--,,Open options
+3.6 (26),Doug Baldwin · WR · (SEA),Team Fax,--,--,,Open options
+3.7 (27),Matthew Stafford · QB · (DET),Suck My  Cheznuts,--,--,,Open options
+3.8 (28),Leonard Fournette · RB · (JAX),South Side Boys,--,--,,Open options
+3.9 (29),T.Y. Hilton · WR · (IND),Tibbetts Squad,--,--,,Open options
+3.10 (30),Jordan Howard · RB · (CHI),Team Infantino,--,--,,Open options
+4.1 (31),Terrelle Pryor · WR · (WAS),Team Infantino,--,--,,Open options
+4.2 (32),DeMarco Murray · RB · (TEN),Tibbetts Squad,--,--,,Open options
+4.3 (33),Greg Olsen · TE · (CAR),South Side Boys,--,--,,Open options
+4.4 (34),Travis Kelce · TE · (KC),Suck My  Cheznuts,--,--,,Open options
+4.5 (35),Jordan Reed · TE · (WAS),Team Fax,--,--,,Open options
+4.6 (36),Lamar Miller · RB · (HOU),Barbeque Chicken,--,--,,Open options
+4.7 (37),Cam Newton · QB · (CAR),Team Rivers,--,--,,Open options
+4.8 (38),Isaiah Crowell · RB · (CLE),Team sprague,--,--,,Open options
+4.9 (39),Kareem Hunt · RB · (KC),Team Hyatt,--,--,,Open options
+4.10 (40),Ezekiel Elliott · RB · (DAL),Team Cote,--,--,,Open options
+5.1 (41),Christian McCaffrey · RB · (CAR),Team Cote,--,--,,Open options
+5.2 (42),Emmanuel Sanders · WR · (DEN),Team Hyatt,--,--,,Open options
+5.3 (43),Jameis Winston · QB · (CLE),Team sprague,--,--,,Open options
+5.4 (44),Larry Fitzgerald · WR · (ARI),Team Rivers,--,--,,Open options
+5.5 (45),Jimmy Graham · TE · (SEA),Barbeque Chicken,--,--,,Open options
+5.6 (46),DeAndre Hopkins · WR · (HOU),Team Fax,--,--,,Open options
+5.7 (47),Michael Crabtree · WR · (LV),Suck My  Cheznuts,--,--,,Open options
+5.8 (48),Golden Tate · WR · (DET),South Side Boys,--,--,,Open options
+5.9 (49),Alshon Jeffery · WR · (PHI),Tibbetts Squad,--,--,,Open options
+5.10 (50),Marshawn Lynch · RB · (LV),Team Infantino,--,--,,Open options
+6.1 (51),Zach Ertz · TE · (PHI),Team Infantino,--,--,,Open options
+6.2 (52),Delanie Walker · TE · (TEN),Tibbetts Squad,--,--,,Open options
+6.3 (53),Carlos Hyde · RB · (SF),South Side Boys,--,--,,Open options
+6.4 (54),Demaryius Thomas · WR · (DEN),Suck My  Cheznuts,--,--,,Open options
+6.5 (55),Davante Adams · WR · (GB),Team Fax,--,--,,Open options
+6.6 (56),Justin Tucker · K · (BAL),Barbeque Chicken,--,--,,Open options
+6.7 (57),Dalvin Cook · RB · (MIN),Team Rivers,--,--,,Open options
+6.8 (58),Kyle Rudolph · TE · (MIN),Team sprague,--,--,,Open options
+6.9 (59),Keenan Allen · WR · (LAC),Team Hyatt,--,--,,Open options
+6.10 (60),Hunter Henry · TE · (NE),Team Cote,--,--,,Open options
+7.1 (61),Kelvin Benjamin · TE · (CAR),Team Cote,--,--,,Open options
+7.2 (62),Mark Ingram · RB · (NO),Team Hyatt,--,--,,Open options
+7.3 (63),Allen Robinson · WR · (JAX),Team sprague,--,--,,Open options
+7.4 (64),Chris Hogan · WR · (NE),Team Rivers,--,--,,Open options
+7.5 (65),Tyreek Hill · WR · (KC),Barbeque Chicken,--,--,,Open options
+7.6 (66),Joe Mixon · RB · (CIN),Team Fax,--,--,,Open options
+7.7 (67),Ty Montgomery · RB · (GB),Suck My  Cheznuts,--,--,,Open options
+7.8 (68),Martavis Bryant · WR · (PIT),South Side Boys,--,--,,Open options
+7.9 (69),Jamison Crowder · WR · (WAS),Tibbetts Squad,--,--,,Open options
+7.10 (70),Jarvis Landry · WR · (FA),Team Infantino,--,--,,Open options
+8.1 (71),Martellus Bennett · TE · (GB),Team Infantino,--,--,,Open options
+8.2 (72),Frank Gore · RB · (IND),Tibbetts Squad,--,--,,Open options
+8.3 (73),Sammy Watkins · WR · (LAR),South Side Boys,--,--,,Open options
+8.4 (74),Bilal Powell · RB · (NYJ),Suck My  Cheznuts,--,--,,Open options
+8.5 (75),Mike Gillislee · RB · (NE),Team Fax,--,--,,Open options
+8.6 (76),Tevin Coleman · RB · (ATL),Barbeque Chicken,--,--,,Open options
+8.7 (77),Carolina Panthers · DEF · (CAR),Team Rivers,--,--,,Open options
+8.8 (78),Danny Woodhead · RB · (BAL),Team sprague,--,--,,Open options
+8.9 (79),Austin Hooper · TE · (ATL),Team Hyatt,--,--,,Open options
+8.10 (80),Stefon Diggs · WR · (MIN),Team Cote,--,--,,Open options
+9.1 (81),Marcus Mariota · QB · (TEN),Team Cote,--,--,,Open options
+9.2 (82),Seattle Seahawks · DEF · (SEA),Team Hyatt,--,--,,Open options
+9.3 (83),Derek Carr · QB · (LV),Team sprague,--,--,,Open options
+9.4 (84),Jason Witten · TE · (DAL),Team Rivers,--,--,,Open options
+9.5 (85),Denver Broncos · DEF · (DEN),Barbeque Chicken,--,--,,Open options
+9.6 (86),Julius Thomas · TE · (FA),Team Fax,--,--,,Open options
+9.7 (87),Pierre Garcon · WR · (SF),Suck My  Cheznuts,--,--,,Open options
+9.8 (88),DeVante Parker · WR · (FA),South Side Boys,--,--,,Open options
+9.9 (89),Jacksonville Jaguars · DEF · (JAX),Tibbetts Squad,--,--,,Open options
+9.10 (90),Houston Texans · DEF · (HOU),Team Infantino,--,--,,Open options
+10.1 (91),Ben Roethlisberger · QB · (PIT),Team Infantino,--,--,,Open options
+10.2 (92),Terrance West · RB · (BAL),Tibbetts Squad,--,--,,Open options
+10.3 (93),Theo Riddick · RB · (DET),South Side Boys,--,--,,Open options
+10.4 (94),Brandon Marshall · WR · (NYG),Suck My  Cheznuts,--,--,,Open options
+10.5 (95),Kansas City Chiefs · DEF · (KC),Team Fax,--,--,,Open options
+10.6 (96),Matt Forte · RB · (NYJ),Barbeque Chicken,--,--,,Open options
+10.7 (97),Stephen Gostkowski · K · (NE),Team Rivers,--,--,,Open options
+10.8 (98),Tyler Eifert · TE · (CIN),Team sprague,--,--,,Open options
+10.9 (99),Mason Crosby · K · (GB),Team Hyatt,--,--,,Open options
+10.10 (100),Minnesota Vikings · DEF · (MIN),Team Cote,--,--,,Open options
+11.1 (101),Matt Bryant · K · (ATL),Team Cote,--,--,,Open options
+11.2 (102),Ameer Abdullah · RB · (DET),Team Hyatt,--,--,,Open options
+11.3 (103),Jeremy Maclin · WR · (BAL),Team sprague,--,--,,Open options
+11.4 (104),Adrian Peterson · RB · (NO),Team Rivers,--,--,,Open options
+11.5 (105),Jared Cook · TE · (LV),Barbeque Chicken,--,--,,Open options
+11.6 (106),Philip Rivers · QB · (LAC),Team Fax,--,--,,Open options
+11.7 (107),Cincinnati Bengals · DEF · (CIN),Suck My  Cheznuts,--,--,,Open options
+11.8 (108),Adam Vinatieri · K · (IND),South Side Boys,--,--,,Open options
+11.9 (109),Andy Dalton · QB · (CIN),Tibbetts Squad,--,--,,Open options
+11.10 (110),Randall Cobb · WR · (GB),Team Infantino,--,--,,Open options
+12.1 (111),Dan Bailey · K · (DAL),Team Infantino,--,--,,Open options
+12.2 (112),DeSean Jackson · WR · (FA),Tibbetts Squad,--,--,,Open options
+12.3 (113),Los Angeles Chargers · DEF · (LAC),South Side Boys,--,--,,Open options
+12.4 (114),Rob Kelley · RB · (WAS),Suck My  Cheznuts,--,--,,Open options
+12.5 (115),Donte Moncrief · WR · (IND),Team Fax,--,--,,Open options
+12.6 (116),Rishard Matthews · WR · (TEN),Barbeque Chicken,--,--,,Open options
+12.7 (117),Sebastian Janikowski · K · (FA),Team Rivers,--,--,,Open options
+12.8 (118),Eric Decker · WR · (TEN),Team sprague,--,--,,Open options
+12.9 (119),Carson Wentz · QB · (PHI),Team Hyatt,--,--,,Open options
+12.10 (120),Mike Wallace · WR · (BAL),Team Cote,--,--,,Open options
+13.1 (121),Darren McFadden · RB · (FA),Team Cote,--,--,,Open options
+13.2 (122),Duke Johnson · RB · (CLE),Team Hyatt,--,--,,Open options
+13.3 (123),Arizona Cardinals · DEF · (ARI),Team sprague,--,--,,Open options
+13.4 (124),Jack Doyle · TE · (IND),Team Rivers,--,--,,Open options
+13.5 (125),Matt Prater · K · (DET),Barbeque Chicken,--,--,,Open options
+13.6 (126),Paul Perkins · RB · (NYG),Team Fax,--,--,,Open options
+13.7 (127),C.J. Anderson · RB · (DEN),Suck My  Cheznuts,--,--,,Open options
+13.8 (128),Coby Fleener · TE · (NO),South Side Boys,--,--,,Open options
+13.9 (129),Eli Manning · QB · (NYG),Tibbetts Squad,--,--,,Open options
+13.10 (130),James White · RB · (NE),Team Infantino,--,--,,Open options
+14.1 (131),Kenny Britt · WR · (CLE),Team Infantino,--,--,,Open options
+14.2 (132),Harrison Butker · K · (KC),Tibbetts Squad,--,--,,Open options
+14.3 (133),Carson Palmer · QB · (ARI),South Side Boys,--,--,,Open options
+14.4 (134),Adam Thielen · WR · (MIN),Suck My  Cheznuts,--,--,,Open options
+14.5 (135),Jonathan Stewart · RB · (CAR),Team Fax,--,--,,Open options
+14.6 (136),Sterling Shepard · WR · (NYG),Barbeque Chicken,--,--,,Open options
+14.7 (137),Eddie Lacy · RB · (SEA),Team Rivers,--,--,,Open options
+14.8 (138),LeGarrette Blount · RB · (PHI),Team sprague,--,--,,Open options
+14.9 (139),John Brown · WR · (ARI),Team Hyatt,--,--,,Open options
+14.10 (140),Tyrell Williams · WR · (LAC),Team Cote,--,--,,Open options
+15.1 (141),Willie Snead · WR · (FA),Team Cote,--,--,,Open options
+15.2 (142),Corey Davis · WR · (TEN),Team Hyatt,--,--,,Open options
+15.3 (143),Chris Boswell · K · (PIT),Team sprague,--,--,,Open options
+15.4 (144),Andrew Luck · QB · (FA),Team Rivers,--,--,,Open options
+15.5 (145),Marvin Jones · WR · (DET),Barbeque Chicken,--,--,,Open options
+15.6 (146),Jordan Matthews · TE · (BUF),Team Fax,--,--,,Open options
+15.7 (147),Doug Martin · RB · (FA),Suck My  Cheznuts,--,--,,Open options
+15.8 (148),Darren Sproles · RB · (PHI),South Side Boys,--,--,,Open options
+15.9 (149),Zay Jones · WR · (BUF),Tibbetts Squad,--,--,,Open options
+15.10 (150),New England Patriots · DEF · (NE),Team Infantino,--,--,,Open options
+16.1 (151),Cairo Santos · K · (KC),Team Infantino,--,--,,Open options
+16.2 (152),Thomas Rawls · RB · (FA),Tibbetts Squad,--,--,,Open options
+16.3 (153),Giovani Bernard · RB · (CIN),South Side Boys,--,--,,Open options
+16.4 (154),Dustin Hopkins · K · (WAS),Suck My  Cheznuts,--,--,,Open options
+16.5 (155),Wil Lutz · K · (NO),Team Fax,--,--,,Open options
+16.6 (156),Cole Beasley · WR · (DAL),Barbeque Chicken,--,--,,Open options
+16.7 (157),Atlanta Falcons · DEF · (ATL),Team Rivers,--,--,,Open options
+16.8 (158),Blair Walsh · K · (SEA),Team sprague,--,--,,Open options
+16.9 (159),Younghoe Koo · K · (LAC),Team Hyatt,--,--,,Open options
+16.10 (160),Corey Coleman · WR · (CLE),Team Cote,--,--,,Open options
