@@ -59,12 +59,12 @@ def extract_cell_content(cell) -> str:
                         break
             classes = div.get('class', [])
             if 'bg-red-300' in classes:
-                players.append(f"(-){player_name}")
+                players.append(f"(-) {player_name}")
             elif 'bg-green-300' in classes:
-                players.append(f"(+){player_name}")
+                players.append(f"(+) {player_name}")
             else:
                 players.append(player_name)
-        return ' · '.join(players)
+        return ', '.join(players)
     # Otherwise, get text content as before
     return cell.get_text(strip=True).replace("\n", " ")
 
