@@ -3,6 +3,14 @@ import os
 import csv
 import json
 
+ 
+PLAYOFF_WINS = 'playoff_wins'
+PLAYOFF_LOSSES = 'playoff_losses'
+PLAYOFF_POINTS_FOR = 'playoff_points_for'
+PLAYOFF_POINTS_AGAINST = 'playoff_points_against'
+CHAMPIONSHIPS = 'championships'
+CHAMPIONSHIP_APPEARANCES = 'championship_appearances'
+
 def load_team_user_map(map_path='team_user_map.json'):
     with open(map_path, encoding='utf-8') as f:
         mapping = json.load(f)
@@ -65,12 +73,6 @@ def compile_league_stats(csv_root='csv', map_path='team_user_map.json', output_c
                             winner, winner_score = user2, score2
                             loser, loser_score = user1, score1
 
-                        PLAYOFF_WINS = 'playoff_wins'
-                        PLAYOFF_LOSSES = 'playoff_losses'
-                        PLAYOFF_POINTS_FOR = 'playoff_points_for'
-                        PLAYOFF_POINTS_AGAINST = 'playoff_points_against'
-                        CHAMPIONSHIPS = 'championships'
-                        CHAMPIONSHIP_APPEARANCES = 'championship_appearences'
                         game_type = row.get('Game_Type', '')
                         if 'playoff' in game_type.lower() or 'championship' in game_type.lower():
                             for user in [winner, loser]:
@@ -89,14 +91,14 @@ def compile_league_stats(csv_root='csv', map_path='team_user_map.json', output_c
                             user_stats[winner][PLAYOFF_POINTS_AGAINST] += loser_score
 
                             # Update loser stats
-                            user_stats[winner][PLAYOFF_LOSSES] += 1
-                            user_stats[winner][PLAYOFF_POINTS_FOR] += loser_score 
-                            user_stats[winner][PLAYOFF_POINTS_AGAINST] += winner_score 
+                            user_stats[loser][PLAYOFF_LOSSES] += 1
+                            user_stats[loser][PLAYOFF_POINTS_FOR] += loser_score 
+                            user_stats[loser][PLAYOFF_POINTS_AGAINST] += winner_score 
 
-                        if 'championship' in game_type.lower():
-                            user_stats[winner][CHAMPIONSHIPS] += 1
-                            user_stats[winner][CHAMPIONSHIP_APPEARANCES] += 1
-                            user_stats[loser][CHAMPIONSHIP_APPEARANCES] += 1
+                            if 'championship' in game_type.lower():
+                                user_stats[winner][CHAMPIONSHIPS] += 1
+                                user_stats[winner][CHAMPIONSHIP_APPEARANCES] += 1
+                                user_stats[loser][CHAMPIONSHIP_APPEARANCES] += 1
 
     return user_stats
 
@@ -119,7 +121,7 @@ with open('playoff_stats.csv', 'w', newline='', encoding='utf-8') as f:
             f"{data.get('playoff_points_for', 0.0):.2f}",
             f"{data.get('playoff_points_against', 0.0):.2f}",
             data.get('championships', 0),
-            data.get('championship_appearances', 0)
+            data.get(CHAMPIONSHIP_APPEARANCES, 0)
         ]
         writer.writerow(row)
 pp.pprint(stats)
