@@ -2,7 +2,7 @@ import os
 import csv
 import json
 
-def load_team_user_map(map_path='team_user_map.json'):
+def load_team_user_map(map_path='../team_user_map.json'):
     with open(map_path, encoding='utf-8') as f:
         mapping = json.load(f)
     team_to_user = {}
@@ -22,7 +22,7 @@ def parse_record(record):
     else:
         return 0, 0, 0
 
-def compile_league_stats(csv_root='csv', map_path='team_user_map.json', output_csv='cumulative_stats.csv'):
+def compile_league_stats(csv_root='csv', map_path='../team_user_map.json', output_csv='cumulative_stats.csv'):
     team_to_user = load_team_user_map(map_path)
     user_stats = {}
     for year_dir in sorted(os.listdir(csv_root)):
