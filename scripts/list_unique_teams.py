@@ -12,7 +12,7 @@ def load_team_user_map(map_path='../team_user_map.json'):
             team_to_user[team] = user
     return team_to_user
 
-def print_teams_with_users(csv_root='csv', map_path='../team_user_map.json'):
+def print_teams_with_users(csv_root='csv', map_path='team_user_map.json'):
     team_to_user = load_team_user_map(map_path)
     print(f"{'Year':<6} | {'Team Name':<30} | Username")
     print('-'*60)
