@@ -1,0 +1,161 @@
+Pick,Player,Team,Keeper,Note,Misc,Manage
+1.1 (1),Christian McCaffrey RB (CAR),Team Proctor,--,--,,Open options
+1.2 (2),Dalvin Cook RB (MIN),Chef Dalvin,--,--,,Open options
+1.3 (3),Alvin Kamara RB (NO),Team Sprague,--,--,,Open options
+1.4 (4),Saquon Barkley RB (NYG),Team Tibbetts,--,--,,Open options
+1.5 (5),Derrick Henry RB (TEN),Team Hyatt,--,--,,Open options
+1.6 (6),Tyreek Hill WR (KC),Team Chesbrough,--,--,,Open options
+1.7 (7),Travis Kelce TE (KC),Glizzy Gladiators,--,--,,Open options
+1.8 (8),Ezekiel Elliott RB (DAL),Krafts Massage Parlor,--,--,,Open options
+1.9 (9),Jonathan Taylor RB (IND),Team greenhouse,--,--,,Open options
+1.10 (10),Austin Ekeler RB (LAC),Team Goose,--,--,,Open options
+2.1 (11),Davante Adams WR (GB),Team Goose,--,--,,Open options
+2.2 (12),Aaron Jones RB (GB),Team greenhouse,--,--,,Open options
+2.3 (13),Nick Chubb RB (CLE),Krafts Massage Parlor,--,--,,Open options
+2.4 (14),Antonio Gibson RB (WAS),Glizzy Gladiators,--,--,,Open options
+2.5 (15),Najee Harris RB (PIT),Team Chesbrough,--,--,,Open options
+2.6 (16),Joe Mixon RB (CIN),Team Hyatt,--,--,,Open options
+2.7 (17),Stefon Diggs WR (BUF),Team Tibbetts,--,--,,Open options
+2.8 (18),DeAndre Hopkins WR (ARI),Team Sprague,--,--,,Open options
+2.9 (19),Calvin Ridley WR (ATL),Chef Dalvin,--,--,,Open options
+2.10 (20),David Montgomery RB (CHI),Team Proctor,--,--,,Open options
+3.1 (21),DK Metcalf WR (SEA),Team Proctor,--,--,,Open options
+3.2 (22),Chris Carson RB (SEA),Chef Dalvin,--,--,,Open options
+3.3 (23),Justin Jefferson WR (MIN),Team Sprague,--,--,,Open options
+3.4 (24),A.J. Brown WR (ARI),Team Tibbetts,--,--,,Open options
+3.5 (25),Keenan Allen WR (LAC),Team Hyatt,--,--,,Open options
+3.6 (26),Josh Jacobs RB (LV),Team Chesbrough,--,--,,Open options
+3.7 (27),Clyde Edwards-Helaire RB (KC),Glizzy Gladiators,--,--,,Open options
+3.8 (28),Darren Waller TE (LV),Krafts Massage Parlor,--,--,,Open options
+3.9 (29),Terry McLaurin WR (WAS),Team greenhouse,--,--,,Open options
+3.10 (30),Allen Robinson WR (CHI),Team Goose,--,--,,Open options
+4.1 (31),CeeDee Lamb WR (DAL),Team Goose,--,--,,Open options
+4.2 (32),George Kittle TE (SF),Team greenhouse,--,--,,Open options
+4.3 (33),D'Andre Swift RB (DET),Krafts Massage Parlor,--,--,,Open options
+4.4 (34),Miles Sanders RB (PHI),Glizzy Gladiators,--,--,,Open options
+4.5 (35),Mike Evans WR (TB),Team Chesbrough,--,--,,Open options
+4.6 (36),Robert Woods WR (LAR),Team Hyatt,--,--,,Open options
+4.7 (37),J.K. Dobbins RB (LAC),Team Tibbetts,--,--,,Open options
+4.8 (38),Kareem Hunt RB (CLE),Team Sprague,--,--,,Open options
+4.9 (39),Patrick Mahomes QB (KC),Chef Dalvin,--,--,,Open options
+4.10 (40),Amari Cooper WR (DAL),Team Proctor,--,--,,Open options
+5.1 (41),Josh Allen QB (BUF),Team Proctor,--,--,,Open options
+5.2 (42),Tyler Lockett WR (SEA),Chef Dalvin,--,--,,Open options
+5.3 (43),Kyle Pitts TE (ATL),Team Sprague,--,--,,Open options
+5.4 (44),Kyler Murray QB (ARI),Team Tibbetts,--,--,,Open options
+5.5 (45),Lamar Jackson QB (BAL),Team Hyatt,--,--,,Open options
+5.6 (46),Aaron Rodgers QB (GB),Team Chesbrough,--,--,,Open options
+5.7 (47),Adam Thielen WR (MIN),Glizzy Gladiators,--,--,,Open options
+5.8 (48),Chris Godwin WR (TB),Krafts Massage Parlor,--,--,,Open options
+5.9 (49),Julio Jones WR (TEN),Team greenhouse,--,--,,Open options
+5.10 (50),Darrell Henderson RB (LAR),Team Goose,--,--,,Open options
+6.1 (51),Diontae Johnson WR (PIT),Team Goose,--,--,,Open options
+6.2 (52),Cooper Kupp WR (LAR),Team greenhouse,--,--,,Open options
+6.3 (53),D.J. Moore WR (CAR),Krafts Massage Parlor,--,--,,Open options
+6.4 (54),Brandon Aiyuk WR (SF),Glizzy Gladiators,--,--,,Open options
+6.5 (55),Javonte Williams RB (DEN),Team Chesbrough,--,--,,Open options
+6.6 (56),Mark Andrews TE (BAL),Team Hyatt,--,--,,Open options
+6.7 (57),Tee Higgins WR (CIN),Team Tibbetts,--,--,,Open options
+6.8 (58),Robbie Chosen WR (CAR),Team Sprague,--,--,,Open options
+6.9 (59),Ja'Marr Chase WR (CIN),Chef Dalvin,--,--,,Open options
+6.10 (60),Robert Tonyan TE (GB),Team Proctor,--,--,,Open options
+7.1 (61),Travis Etienne RB (JAX),Team Proctor,--,--,,Open options
+7.2 (62),Chase Edmonds RB (ARI),Chef Dalvin,--,--,,Open options
+7.3 (63),T.J. Hockenson TE (DET),Team Sprague,--,--,,Open options
+7.4 (64),Kenny Golladay WR (NYG),Team Tibbetts,--,--,,Open options
+7.5 (65),Myles Gaskin RB (MIA),Team Hyatt,--,--,,Open options
+7.6 (66),Logan Thomas TE (WAS),Team Chesbrough,--,--,,Open options
+7.7 (67),Dak Prescott QB (DAL),Glizzy Gladiators,--,--,,Open options
+7.8 (68),Courtland Sutton WR (DEN),Krafts Massage Parlor,--,--,,Open options
+7.9 (69),Jerry Jeudy WR (DEN),Team greenhouse,--,--,,Open options
+7.10 (70),Odell Beckham WR (MIA),Team Goose,--,--,,Open options
+8.1 (71),JuJu Smith-Schuster WR (PIT),Team Goose,--,--,,Open options
+8.2 (72),Russell Wilson QB (SEA),Team greenhouse,--,--,,Open options
+8.3 (73),Justin Herbert QB (LAC),Krafts Massage Parlor,--,--,,Open options
+8.4 (74),Chase Claypool WR (PIT),Glizzy Gladiators,--,--,,Open options
+8.5 (75),Brandin Cooks WR (HOU),Team Chesbrough,--,--,,Open options
+8.6 (76),Tampa Bay Buccaneers DEF (TB),Team Hyatt,--,--,,Open options
+8.7 (77),Noah Fant TE (DEN),Team Tibbetts,--,--,,Open options
+8.8 (78),Tyler Boyd WR (CIN),Team Sprague,--,--,,Open options
+8.9 (79),Tyler Higbee TE (LAR),Chef Dalvin,--,--,,Open options
+8.10 (80),DeVonta Smith WR (PHI),Team Proctor,--,--,,Open options
+9.1 (81),Pittsburgh Steelers DEF (PIT),Team Proctor,--,--,,Open options
+9.2 (82),Laviska Shenault WR (JAX),Chef Dalvin,--,--,,Open options
+9.3 (83),Ryan Tannehill QB (TEN),Team Sprague,--,--,,Open options
+9.4 (84),James Robinson RB (JAX),Team Tibbetts,--,--,,Open options
+9.5 (85),Michael Gallup WR (DAL),Team Hyatt,--,--,,Open options
+9.6 (86),Marvin Jones WR (JAX),Team Chesbrough,--,--,,Open options
+9.7 (87),Will Fuller WR (FA),Glizzy Gladiators,--,--,,Open options
+9.8 (88),Deebo Samuel WR (SF),Krafts Massage Parlor,--,--,,Open options
+9.9 (89),Marquise Brown WR (BAL),Team greenhouse,--,--,,Open options
+9.10 (90),Michael Thomas WR (FA),Team Goose,--,--,,Open options
+10.1 (91),D.J. Chark WR (JAX),Team Goose,--,--,,Open options
+10.2 (92),Antonio Brown WR (TB),Team greenhouse,--,--,,Open options
+10.3 (93),Curtis Samuel WR (BUF),Krafts Massage Parlor,--,--,,Open options
+10.4 (94),Jarvis Landry WR (CLE),Glizzy Gladiators,--,--,,Open options
+10.5 (95),Damien Harris RB (NE),Team Chesbrough,--,--,,Open options
+10.6 (96),Dallas Goedert TE (PHI),Team Hyatt,--,--,,Open options
+10.7 (97),Mike Williams WR (LAC),Team Tibbetts,--,--,,Open options
+10.8 (98),Mike Davis RB (ATL),Team Sprague,--,--,,Open options
+10.9 (99),Raheem Mostert RB (SF),Chef Dalvin,--,--,,Open options
+10.10 (100),Justin Tucker K (BAL),Team Proctor,--,--,,Open options
+11.1 (101),Melvin Gordon RB (DEN),Team Proctor,--,--,,Open options
+11.2 (102),Corey Davis WR (NYJ),Chef Dalvin,--,--,,Open options
+11.3 (103),Jaylen Waddle WR (MIA),Team Sprague,--,--,,Open options
+11.4 (104),Henry Ruggs WR (LV),Team Tibbetts,--,--,,Open options
+11.5 (105),Leonard Fournette RB (TB),Team Hyatt,--,--,,Open options
+11.6 (106),Younghoe Koo K (ATL),Team Chesbrough,--,--,,Open options
+11.7 (107),Harrison Butker K (KC),Glizzy Gladiators,--,--,,Open options
+11.8 (108),Kenyan Drake RB (LV),Krafts Massage Parlor,--,--,,Open options
+11.9 (109),AJ Dillon RB (GB),Team greenhouse,--,--,,Open options
+11.10 (110),Jonnu Smith TE (NE),Team Goose,--,--,,Open options
+12.1 (111),Tom Brady QB (TB),Team Goose,--,--,,Open options
+12.2 (112),James Conner RB (ARI),Team greenhouse,--,--,,Open options
+12.3 (113),Zack Moss RB (CIN),Krafts Massage Parlor,--,--,,Open options
+12.4 (114),Baltimore Ravens DEF (BAL),Glizzy Gladiators,--,--,,Open options
+12.5 (115),Michael Carter RB (NYJ),Team Chesbrough,--,--,,Open options
+12.6 (116),Jamaal Williams RB (DET),Team Hyatt,--,--,,Open options
+12.7 (117),Ronald Jones RB (TB),Team Tibbetts,--,--,,Open options
+12.8 (118),Cole Beasley WR (BUF),Team Sprague,--,--,,Open options
+12.9 (119),Jason Sanders K (MIA),Chef Dalvin,--,--,,Open options
+12.10 (120),Michael Pittman WR (IND),Team Proctor,--,--,,Open options
+13.1 (121),Mike Gesicki TE (NE),Team Proctor,--,--,,Open options
+13.2 (122),Jakobi Meyers WR (NE),Chef Dalvin,--,--,,Open options
+13.3 (123),David Johnson RB (HOU),Team Sprague,--,--,,Open options
+13.4 (124),New England Patriots DEF (NE),Team Tibbetts,--,--,,Open options
+13.5 (125),Trey Sermon RB (IND),Team Hyatt,--,--,,Open options
+13.6 (126),Baker Mayfield QB (CLE),Team Chesbrough,--,--,,Open options
+13.7 (127),Jalen Hurts QB (PHI),Glizzy Gladiators,--,--,,Open options
+13.8 (128),Nyheim Hines RB (IND),Krafts Massage Parlor,--,--,,Open options
+13.9 (129),Alexander Mattison RB (MIN),Team greenhouse,--,--,,Open options
+13.10 (130),Phillip Lindsay RB (HOU),Team Goose,--,--,,Open options
+14.1 (131),Matthew Stafford QB (LAR),Team Goose,--,--,,Open options
+14.2 (132),Jalen Reagor WR (PHI),Team greenhouse,--,--,,Open options
+14.3 (133),DeVante Parker WR (MIA),Krafts Massage Parlor,--,--,,Open options
+14.4 (134),Evan Engram TE (JAX),Glizzy Gladiators,--,--,,Open options
+14.5 (135),Parris Campbell WR (IND),Team Chesbrough,--,--,,Open options
+14.6 (136),Devin Singletary RB (BUF),Team Hyatt,--,--,,Open options
+14.7 (137),Graham Gano K (NYG),Team Tibbetts,--,--,,Open options
+14.8 (138),San Francisco 49ers DEF (SF),Team Sprague,--,--,,Open options
+14.9 (139),Marquez Callaway WR (NO),Chef Dalvin,--,--,,Open options
+14.10 (140),Russell Gage WR (ATL),Team Proctor,--,--,,Open options
+15.1 (141),Joe Burrow QB (CIN),Team Proctor,--,--,,Open options
+15.2 (142),Mecole Hardman WR (KC),Chef Dalvin,--,--,,Open options
+15.3 (143),Tyler Bass K (BUF),Team Sprague,--,--,,Open options
+15.4 (144),Tyrell Williams WR (DET),Team Tibbetts,--,--,,Open options
+15.5 (145),Jason Myers K (SEA),Team Hyatt,--,--,,Open options
+15.6 (146),T.Y. Hilton WR (FA),Team Chesbrough,--,--,,Open options
+15.7 (147),Brandon McManus K (DEN),Glizzy Gladiators,--,--,,Open options
+15.8 (148),Washington Commanders DEF (WAS),Krafts Massage Parlor,--,--,,Open options
+15.9 (149),Los Angeles Rams DEF (LAR),Team greenhouse,--,--,,Open options
+15.10 (150),Buffalo Bills DEF (BUF),Team Goose,--,--,,Open options
+16.1 (151),Matt Gay K (LAR),Team Goose,--,--,,Open options
+16.2 (152),Josh Lambo K (JAX),Team greenhouse,--,--,,Open options
+16.3 (153),Greg Zuerlein K (DAL),Krafts Massage Parlor,--,--,,Open options
+16.4 (154),James White RB (NE),Glizzy Gladiators,--,--,,Open options
+16.5 (155),Denver Broncos DEF (DEN),Team Chesbrough,--,--,,Open options
+16.6 (156),Trevor Lawrence QB (JAX),Team Hyatt,--,--,,Open options
+16.7 (157),Darnell Mooney WR (CHI),Team Tibbetts,--,--,,Open options
+16.8 (158),Justin Fields QB (CHI),Team Sprague,--,--,,Open options
+16.9 (159),Indianapolis Colts DEF (IND),Chef Dalvin,--,--,,Open options
+16.10 (160),Randall Cobb WR (GB),Team Proctor,--,--,,Open options

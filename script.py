@@ -31,8 +31,10 @@ def parse_svg_icon(element) -> str:
     return ""
 
 def sanitize_ascii(text):
-    """Remove or replace non-ASCII characters in text."""
-    return ''.join(c if ord(c) < 128 else ' ' for c in text)
+    """Remove or replace non-ASCII characters in text and collapse multiple spaces."""
+    import re
+    ascii_text = ''.join(c if ord(c) < 128 else ' ' for c in text)
+    return re.sub(r'\s+', ' ', ascii_text).strip()
 
 def extract_cell_content(cell) -> str:
     """Extract content from a cell, handling special cases like SVG icons and wrapping divs for each player."""
