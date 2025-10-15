@@ -120,6 +120,11 @@
                     }
                     // Fetch from API
                     const response = await fetch(`https://api.github.com/repos/colbysprague/league-history/contents/${path}`);
+                    if (response.status === 403) {
+                        // Show user-friendly rate limit message
+                        $('#tableContainer').html('<div class="alert alert-danger">You have viewed this page too many times in the past hour and have hit the rate limit for GitHub. Please try again later.</div>');
+                        return [];
+                    }
                     const data = await response.json();
                     // Only cache if data is an array (valid response)
                     if (Array.isArray(data)) {
